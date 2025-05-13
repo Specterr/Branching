@@ -4,5 +4,6 @@ class Main {
         System.out.println("aboba 1");
         System.out.println("aboba 2");
         System.out.println("aboba 3");
+        System.out.println("aboba 4");
     }
 }
